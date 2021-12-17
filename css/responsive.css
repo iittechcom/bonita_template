@@ -1,0 +1,11 @@
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1200px; } }
+@media (min-width: 1440px) {
+  .container {
+    max-width: 1320px; } }
+@media (min-width: 1921px) {
+  .container {
+    max-width: 1800px; } }
+
+/*# sourceMappingURL=responsive.css.map */
